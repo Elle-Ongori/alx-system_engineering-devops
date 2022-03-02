@@ -1,1 +1,2 @@
-dirname /usr/bin/bash
+#!/bin/bash
+pwd
